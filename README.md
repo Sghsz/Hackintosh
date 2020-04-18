@@ -326,6 +326,7 @@
 | Lenovo Ideapad 310-14IKB           | [链接](https://github.com/29satnam/LenovoHackintosh)         | [链接](https://github.com/29satnam/LenovoHackintosh/blob/master/README.md) |                                                              |
 | Lenovo Ideapad 320-15ISK           | [链接](https://github.com/gajjartejas/Lenovo-Ideapad-320-15ISK-Laptop-Hackintosh) |                                                              |                                                              |
 | Lenovo Ideapad 330s-14IKB | [链接](https://github.com/chrisru26/LenovoIdeapad330s-14ikb-Hackintosh) | | |
+| Lenovo Ideapad 330c-14IKB | [链接](https://github.com/Sghsz/hackintosh-Lenovo-Ideapad-330c-i7-8550) | | I7-8550U|
 | Lenovo Ideapad S340 | [链接](https://github.com/4mitabh/Ideapad_S340) | | |
 | Lenovo Ideapad 510-15IKB | [链接](https://github.com/trgcyln/Lenovo-Hackintosh) | | |
 | Lenovo Ideapad 700-15ISK           | [链接](https://github.com/athlonreg/Lenovo-XiaoXin700-15ISK) | [链接](https://github.com/athlonreg/Lenovo-XiaoXin700-15ISK/blob/master/README.md) | Lenovo-XiaoXin700-15ISK                                      |
